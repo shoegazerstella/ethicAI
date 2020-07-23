@@ -1,5 +1,3 @@
-# ethicAI
-
 ![logo](logo.png?style=centerme)
 
 A wannabe exhaustive resources collection about Ethics in Artificial Intelligence.
