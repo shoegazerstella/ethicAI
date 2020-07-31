@@ -1,6 +1,6 @@
 ![logo](logo.png?style=centerme)
 
-A wannabe exhaustive resources collection about Ethics in Artificial Intelligence.
+A wannabe exhaustive resources collection about Ethics of Artificial Intelligence.
 
 [Also a Blog](https://ethicai.wordpress.com/)
 
