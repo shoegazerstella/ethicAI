@@ -10,3 +10,9 @@
 
 ### Institutions
 * [The Institute for Ethical AI & Machine Learning](https://twitter.com/EthicalML)
+
+
+### Organizations
+* [AI For People](https://www.aiforpeople.org/)
+
+
