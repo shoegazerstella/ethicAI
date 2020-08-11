@@ -2,8 +2,6 @@
 
 A wannabe exhaustive resources collection about Ethics of Artificial Intelligence.
 
-[Also a Blog](https://ethicai.wordpress.com/)
-
 * [Articles](https://github.com/shoegazerstella/ethicAI/blob/master/articles.md)
 * [Books](https://github.com/shoegazerstella/ethicAI/blob/master/books.md)
 * [Publications](https://github.com/shoegazerstella/ethicAI/blob/master/publications.md)
