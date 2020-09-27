@@ -14,5 +14,6 @@
 
 ### Organizations
 * [AI For People](https://www.aiforpeople.org/)
+* [Algorithmic Justice League](https://www.ajl.org/)
 
 
